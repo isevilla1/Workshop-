@@ -16,21 +16,8 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-How doth the little crocodile  
-Improve his shining tail,  
-And pour the waters of the Nile  
-On every golden scale!  
-
-How cheerfully he seems to grin  
-
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
-Nature’s first green is gold,  
-Her hardest hue to hold.   
-Her early leaf’s a flower;   
-But only so an hour.   
-Then leaf subsides to leaf.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
@@ -52,21 +39,3 @@ After the day was done--
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
-Shine  
-
-Life is something we all share,   
-Just like oxygen, in the air.   
-The way we live it, is up to us,   
-With a negative or with a plus.  
-
-Life is something, we should cherish,   
-We never know, when we'll perish.   
-Live each and every single day,   
-Smell the flowers, stop and play.  
-
-Life is something, we've been blessed,   
-Choice is yours, choose your quest.   
-Follow your passions, and you'll be fine,   
-With the right attitude, you will shine.  
-
-by AnitaPoems.com  
